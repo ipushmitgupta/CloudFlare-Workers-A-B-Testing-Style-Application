@@ -1,0 +1,6 @@
+name = "fullstack_cloudflareworker"
+type = "webpack"
+account_id = "bb7201f28fd64ca121027b596af91217"
+workers_dev = true
+route = ""
+zone_id = ""
